@@ -1,0 +1,143 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header{
+    padding: 45px 0;
+    box-sizing: border-box;
+border: 2px solid rgb(222, 219, 219);
+background: rgb(255, 255, 255);
+
+}
+.conainer{
+    max-width: 1200px;
+    width: 100%;
+    margin: 0 auto;
+}
+.navigation{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.btn{
+    background-color: transparent;
+    border: none;
+    gap: 20px;
+    color: rgb(66, 66, 66);
+font-family: "Inter";
+font-size: 36px;
+font-weight: 700;
+line-height: 44px;
+
+}
+.hero{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.hero__wrapper{
+    width: 650px;
+    padding: 50px;
+    box-sizing: border-box;
+border: 1px solid rgb(222, 219, 219);
+border-radius: 50px;
+
+background: rgb(255, 255, 255);
+margin: 0 auto;
+}
+.hero__top{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.hero__btn{
+    align-items: center;
+    gap: 20px;
+    background-color: transparent;
+    border: none;
+    color: #f0400f;
+font-family: "Inter";
+font-size: 24px;
+font-weight: 700;
+line-height: 29px;
+}
+.hero__title{
+    color: #0e0d5d;
+font-family: Inter;
+font-size: 48px;
+font-weight: 700;
+line-height: 58px;
+text-align: center;
+margin-bottom: 20px;
+margin-top: 100px;
+}
+.btn__wrapper{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    border-radius: 20px;
+    background-color: white;
+    padding: 10px;
+}
+.pupils{
+    width: 255px;
+    border-radius: 15px;
+    padding: 10px ;
+    text-align: center;
+    color: rgb(0, 0, 0);
+font-family: "Inter";
+font-size: 28px;
+font-weight: 500;
+line-height: 34px;
+border: none;
+}
+.input{
+    box-sizing: border-box;
+border: 1px solid rgba(117, 117, 117, 0.19);
+border-radius: 20px;
+
+background: rgb(250, 250, 250);
+width: 533px;
+height: 70px;
+margin-bottom: 19px;
+color: rgba(117, 117, 117, 0.7);
+font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+line-height: 29px;
+text-align: center;
+}
+input{
+margin-top: 39px;
+}
+.h2{
+    display: flex;
+    color: rgba(0, 0, 0, 0.64);
+font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+line-height: 29px;
+justify-content: center;
+}
+    
+.h2{
+    margin-top: 39px;
+}
+.murod__bot{
+    color: rgb(255, 255, 255);
+font-family: Inter;
+font-size: 24px;
+font-weight: 700;
+line-height: 29px;
+border-radius: 20px;
+
+background: rgb(246, 158, 134);
+width: 202px;
+height: 67px;
+border: none; 
+
+}
+.div2{
+    margin-left: 1100px;
+    margin-top: 30px;
+}
